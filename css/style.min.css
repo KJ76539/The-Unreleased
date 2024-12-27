@@ -737,7 +737,7 @@ body.miniPlayer #lock-pause .bt .bck {
 #sp-select .icon {
     position: relative;
     display: inline-block;
-    width: 250px;
+    width: 120px;
     height: 152px;
     margin: 0 15px 15px;
     -webkit-transform: translateY(40px);
@@ -776,7 +776,7 @@ body.miniPlayer #lock-pause .bt .bck {
 #sp-select .icon .img,
 #sp-select .icon .txt {
     width: 120px;
-    background-size: 1030px 152px;
+    background-size: 250px 152px;
     background-repeat: no-repeat
 }
 
