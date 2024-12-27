@@ -594,36 +594,6 @@ body.miniPlayer #lock-pause .bt .bck {
     animation: g .5s cubic-bezier(.165, .84, .44, 1) .23s forwards
 }
 
-#page-splash .centered #sp-select .icon#icon3.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .28s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .28s forwards
-}
-
-#page-splash .centered #sp-select .icon#icon4.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .33s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .33s forwards
-}
-
-#page-splash .centered #sp-select .icon#icon5.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .38s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .38s forwards
-}
-
-#page-splash .centered #sp-select .icon#icon6.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .43s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .43s forwards
-}
-
-#page-splash .centered #sp-select .icon#icon7.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .48s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .48s forwards
-}
-
-#page-splash .centered #sp-select .icon#icon8.tweenUp {
-    -webkit-animation: g .5s cubic-bezier(.165, .84, .44, 1) .53s forwards;
-    animation: g .5s cubic-bezier(.165, .84, .44, 1) .53s forwards
-}
-
 @-webkit-keyframes a {
     to {
         -webkit-transform: translateY(-70px);
@@ -793,64 +763,12 @@ body.miniPlayer #lock-pause .bt .bck {
     background-position: -130px 0
 }
 
-#sp-select .icon#icon3 .img {
-    background-position: -260px 0
-}
-
-#sp-select .icon#icon4 .img {
-    background-position: -390px 0
-}
-
-#sp-select .icon#icon5 .img {
-    background-position: -520px 0
-}
-
-#sp-select .icon#icon6 .img {
-    background-position: -650px 0
-}
-
-#sp-select .icon#icon7 .img {
-    background-position: -780px 0
-}
-
-#sp-select .icon#icon8 .img {
-    background-position: -910px 0
-}
-
 #sp-select .icon#icon1 .txt {
     background-position: 0 -126px
 }
 
 #sp-select .icon#icon2 .txt {
     background-position: -130px -126px
-}
-
-#sp-select .icon#icon3 .txt {
-    background-position: -260px -126px
-}
-
-#sp-select .icon#icon4 .txt {
-    background-position: -390px -126px
-}
-
-#sp-select .icon#icon5 .txt {
-    background-position: -520px -126px
-}
-
-#sp-select .icon#icon6 .txt {
-    background-position: -650px -126px
-}
-
-#sp-select .icon#icon7 .txt {
-    background-position: -780px -126px
-}
-
-#sp-select .icon#icon8 .txt {
-    background-position: -910px -126px
-}
-
-#sp-select .icon .img.focused {
-    background-color: transparent !important
 }
 
 #sp-select .icon .bul {
@@ -941,30 +859,6 @@ body.miniPlayer #lock-pause .bt .bck {
 
 #sp-select .icon#icon2 .bul {
     background-color: #c32d2d
-}
-
-#sp-select .icon#icon3 .bul {
-    background-color: #3c646e
-}
-
-#sp-select .icon#icon4 .bul {
-    background-color: #ba7b3d
-}
-
-#sp-select .icon#icon5 .bul {
-    background-color: #41a032
-}
-
-#sp-select .icon#icon6 .bul {
-    background-color: #825fd2
-}
-
-#sp-select .icon#icon7 .bul {
-    background-color: #d65a1e
-}
-
-#sp-select .icon#icon8 .bul {
-    background-color: #5f7e7b
 }
 
 #fade-home {
