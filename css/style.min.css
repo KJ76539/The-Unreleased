@@ -783,16 +783,16 @@ body.miniPlayer #lock-pause .bt .bck {
     transform: scale(.5)
 }
 
-#sp-select .icon .bul .icn-svg {
+#sp-select .icon  .icn-svg {
     stroke-width: 1px
 }
 
-#sp-select .icon.open .bul {
+#sp-select .icon.open  {
     -webkit-animation: h .5s cubic-bezier(.175, .885, .32, 1.275) 0s forwards;
     animation: h .5s cubic-bezier(.175, .885, .32, 1.275) 0s forwards
 }
 
-#sp-select .icon.close .bul {
+#sp-select .icon.close  {
     -webkit-animation: i .2s cubic-bezier(.6, -.28, .735, .045) 0s forwards;
     animation: i .2s cubic-bezier(.6, -.28, .735, .045) 0s forwards
 }
@@ -853,12 +853,12 @@ body.miniPlayer #lock-pause .bt .bck {
     }
 }
 
-#sp-select .icon#icon1 .bul {
+#sp-select .icon#icon1  {
     background-color: #596987
 }
 
 #sp-select .icon#icon2 .bul {
-    background-color: #c32d2d
+    background-color: #2f6c6a
 }
 
 #fade-home {
