@@ -85,5 +85,9 @@ var app = new function() {
         code: "2,7,13,15,16",
         sound: "bonus-blizz",
         aspire: "aspire-blizz"
-    }]
+    }];
+     for (var e = 0, n = this.animearray.length; e < n; e++) {
+        var o = this.animearray[e].name;
+        this.animearray[e].soundA = o + "_a", this.animearray[e].soundB = this.animearray[e].uniqsnd ? o + "_a" : o + "_b", this.animearray[e].anime = o + "-sprite.png", this.animearray[e].animeData = o + ".json";
+    }
 };
